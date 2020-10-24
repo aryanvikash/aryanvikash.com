@@ -47,7 +47,8 @@
 }
 
 .grid-flex img {
-  height: 10vh;
+  height: 100px;
+  width: 100px;
   border: 2px solid black;
   background-color: white;
   padding: 10px;
