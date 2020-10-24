@@ -1,7 +1,5 @@
 import config from "../config";
 import Link from "next/link"
-// import ReactTypingEffect from "react-typing-effect";
-import ReactTypingEffect from "../vendor/react-typing-effect/src/lib";
 export default function Customhead() {
   return (
     <div id="home">
@@ -16,8 +14,7 @@ export default function Customhead() {
               alt="aryanvikash"
             />
             <kbd id="username">
-              {<ReactTypingEffect text={config.websiteName} />}
-              <span className="text-danger font-weight-bolder">|</span>{" "}
+{config.websiteName}
             </kbd>
           </a>
         </Link>

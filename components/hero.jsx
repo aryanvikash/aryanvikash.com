@@ -1,8 +1,6 @@
 
-
+import Typed from "react-typed";
 import config from "../config";
-// import ReactTypingEffect from 'react-typing-effect'
-import ReactTypingEffect from "../vendor/react-typing-effect/src/lib";
 
 export default function Hero() {
   function AlertIt() {
@@ -15,19 +13,12 @@ export default function Hero() {
       <h3>
         <kbd className={"text-light"}>{config.heroHead}</kbd>
         <br />
-           <code className="text-light">{config.heroText}</code>
-          <div>
-            <span className="badge badge-warning">
-              <ReactTypingEffect
-          eraseDelay={1}
-          speed={150}
-          eraseSpeed ={2500}
-          typingDelay={0}
-        text={config.typedArray}
-      />
-            </span>
-
-         </div>
+        <code className="text-light">{config.heroText}</code>
+        <div>
+          <span className="badge badge-warning">
+            <Typed strings={config.typedArray} typeSpeed={40} loop ={true} />
+          </span>
+        </div>
       </h3>
 
       <button
