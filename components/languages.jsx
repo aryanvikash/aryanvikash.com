@@ -5,7 +5,7 @@ export default function Languages() {
     <div className="techstack">
       <div className="lang">
         <h1>
-          <span class="badge badge-danger">Skills</span>
+          <span className="badge badge-danger">Skills</span>
         </h1>
       </div>
 
@@ -17,7 +17,7 @@ export default function Languages() {
       {/* Programming Languages */}
       <div className="lang">
         <h1>
-          <span class="badge badge-danger">Programming Languages</span>
+          <span className="badge badge-danger">Programming Languages</span>
         </h1>
       </div>
       <div className="grid-flex">
@@ -32,7 +32,7 @@ export default function Languages() {
       {/*  Frameworks */}
       <div className="lang">
         <h1>
-          <span class="badge badge-danger">Frameworks</span>
+          <span className="badge badge-danger">Frameworks</span>
         </h1>
       </div>
 
@@ -43,7 +43,7 @@ export default function Languages() {
 
       <div className="lang">
         <h1>
-          <span class="badge badge-danger">Tools</span>
+          <span className="badge badge-danger">Tools</span>
         </h1>
       </div>
 
