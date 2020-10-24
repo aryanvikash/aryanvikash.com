@@ -1,30 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/aryanvikash/react-dev-portfolio)
 
-## Getting Started
+## Developer portfolio webApp In ReactJs
 
-First, run the development server:
+    Just A Project
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### Host it On Netlify Or vercel
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    Replace varible name From ./src/config.js file
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### variable Name
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    tgUsername: "Telegram Username",
+    githubUsername: "github Username",
+    websiteName: "Website name that logo",
+    heroHead: "Hi There !!",
+    heroText: "I’m AryanVikash and I’m Just a nub Developer!",
+    facebookUsername: "Facebook Username",
+    instaUsername: "Instagram Username",
+### Run it on local
+    npm i
+    npm start
