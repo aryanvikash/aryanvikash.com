@@ -1,14 +1,13 @@
 [![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/aryanvikash/react-dev-portfolio)
 
-## Developer portfolio webApp In ReactJs
+## Developer Portfolio In NEXTJS
 
-    Just A Project
+____
+### Host it on netlify or vercel
 
-### Host it On Netlify Or vercel
+    Replace varible name From config.js file
 
-    Replace varible name From ./src/config.js file
-
-### variable Name
+### variable Names
 
     tgUsername: "Telegram Username",
     githubUsername: "github Username",
@@ -18,5 +17,5 @@
     facebookUsername: "Facebook Username",
     instaUsername: "Instagram Username",
 ### Run it on local
-    npm i
-    npm start
+    npm install
+    npm run dev

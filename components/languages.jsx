@@ -1,4 +1,3 @@
-import "./language.module.css";
 
 export default function Languages() {
   return (
