@@ -25,7 +25,7 @@ const router = useRouter();
           </a>
         </Link>
 
-        <Link href="projects" as="projects">
+        <Link href="/projects" as="/projects">
           <a className={"btn btn-outline-light"}>Projects</a>
         </Link>
       </nav>
