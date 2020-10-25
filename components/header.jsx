@@ -1,19 +1,15 @@
 import config from "../config";
 import Link from "next/link";
-import { useRouter } from "next/router";
+
 
 export default function Customhead() {
-const router = useRouter();
-     const handleClick = (e) => {
-       e.preventDefault();
-       router.push("/test");
-     };
+
 
   return (
     <div id="home">
       <nav className="navbar navbar-light bg-dark">
         <Link href="/">
-          <a className={"navbar-brand logo"} onClick={handleClick}>
+          <a className={"navbar-brand logo"} >
             <img
               src="./code.png"
               width="30"
