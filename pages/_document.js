@@ -1,5 +1,4 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
-import Customheader from "../components/header";
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
     const initialProps = await Document.getInitialProps(ctx);
@@ -9,9 +8,7 @@ class MyDocument extends Document {
   render() {
     return (
       <Html>
-        <Head>
-          <Customheader />
-        </Head>
+        <Head/>
         <body className="bg-dark">
           <Main />
           <NextScript />

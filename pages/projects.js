@@ -1,5 +1,3 @@
-const { default: next } = require("next");
-
 
 import Projects from "../components/projects/projects"
 import axios from "axios";
