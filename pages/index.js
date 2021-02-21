@@ -20,9 +20,10 @@ const siteName = "aryanvikash"
         <meta charSet="utf-8" />
         <meta name="description" content="A developer with few Skills" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
-+       <meta property="og:description" content={description} key="ogdesc" />
-        <meta name="twitter:card" content={description} key="twcard" />
+        <meta name="twitter:card" content="summary_large_image" key="twcard" />
+        <meta property="og:description" content={description} key="ogdesc" />
         <meta name="twitter:creator" content="@_aryanvikash" key="twhandle" />
+        
 
         {/* Open Graph */}
         <meta property="og:url" content="https://aryanvikash.com" key="ogurl" />
