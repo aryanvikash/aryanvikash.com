@@ -7,7 +7,7 @@ export default function projects({ data }) {
     if (data[i].fork === false) {
       return (
         <Card
-        keys={data[i].html_url}
+        key={data[i].html_url}
           title={data[i].name}
           bodyText={data[i].description}
           repoLink={data[i].html_url}
