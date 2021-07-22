@@ -1,0 +1,10 @@
+{
+    "name": "Portfolio",
+    "description": "about page",
+    "logo": "https://telegra.ph/file/b687362727383fb1d4.jpg",
+    "keywords": [
+      "telegram",
+      "best",
+    ],
+    "stack": "heroku-20"
+  }
