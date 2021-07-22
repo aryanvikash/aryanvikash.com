@@ -11,6 +11,8 @@ export default function Languages() {
       <div className="grid-flex">
         <img src="https://img.icons8.com/fluent/240/000000/android-os.png" />
         <img src="https://img.icons8.com/color/96/000000/api-settings.png" />
+        <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
+        <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
       </div>
 
       {/* Programming Languages */}
