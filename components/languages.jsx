@@ -20,24 +20,30 @@ export default function Languages() {
         </h1>
       </div>
       <div className="grid-flex">
-        <img src="https://img.icons8.com/color/96/000000/c-programming.png" />
         <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" />
         <img src="https://img.icons8.com/color/480/000000/python.png" />
-        <img src="https://img.icons8.com/color/480/000000/dart.png" />
-        <img src="https://img.icons8.com/color/480/000000/javascript.png" />
-        <img src="https://img.icons8.com/color/480/000000/kotlin.png" />
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+        <img src="https://img.icons8.com/color/480/000000/java.png" />
       </div>
 
       {/*  Frameworks */}
       <div className="lang">
         <h1>
-          <span className="badge badge-danger">Frameworks</span>
+          <span className="badge badge-danger">Libraries</span>
         </h1>
       </div>
 
       <div className="grid-flex">
-        <img src="https://img.icons8.com/color/96/000000/flutter.png" />
-        <img src="https://img.icons8.com/plasticine/400/000000/react.png" />
+        <img src="https://raw.githubusercontent.com/pyrogram/logos/fe16a72cae833fcabf1f79ca0b33cee6af2f3bc3/logos/pyrogram.svg" />
+      </div>
+      <div className="lang">
+        <h1>
+          <span className="badge badge-danger">Fav Database</span>
+        </h1>
+      </div>
+
+      <div className="grid-flex">
+        <img src="https://img.icons8.com/color/480/000000/mongodb.png" />
       </div>
 
       <div className="lang">
@@ -49,7 +55,9 @@ export default function Languages() {
       <div className="grid-flex">
         <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" />
         <img src="https://img.icons8.com/color/480/000000/intellij-idea.png" />
+        <img src="https://img.icons8.com/color/480/000000/pycharm.png" />
         <img src="https://img.icons8.com/color/144/000000/git.png" />
+        <img src="https://img.icons8.com/color/480/000000/docker.png" />
         <img src="https://img.icons8.com/fluent/96/000000/github.png" />
       </div>
     </div>
