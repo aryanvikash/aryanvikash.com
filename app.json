@@ -6,8 +6,13 @@
       "telegram",
       "best",
     ],
-  "repository": "http://google.com/",
-  "success_url": "http://google.com/",
-  "website": "http://google.com/",
-    "stack": "heroku-20"
+    "repository": "http://google.com/",
+    "success_url": "http://google.com/",
+    "website": "http://google.com/",
+    "stack": "heroku-20",
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
   }
