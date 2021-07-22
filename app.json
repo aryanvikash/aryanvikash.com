@@ -6,5 +6,8 @@
       "telegram",
       "best",
     ],
+  "repository": "http://google.com/",
+  "success_url": "http://google.com/",
+  "website": "http://google.com/",
     "stack": "heroku-20"
   }
