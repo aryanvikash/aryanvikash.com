@@ -59,7 +59,7 @@ export default function footer() {
           </li>
         </ul>
         <div className="footer-copyright text-center py-3 text-light">
-          Made With NextJs{" "}
+          Made With {" "}
           <i>
             <img
               style={{ width: "30px", height: "30px" }}
@@ -67,7 +67,7 @@ export default function footer() {
               alt="love"
             />
           </i>{" "}
-          By Aryan Vikash
+          By Jigar Varma
         </div>
       </footer>
     </div>
