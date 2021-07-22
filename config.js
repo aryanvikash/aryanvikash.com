@@ -1,10 +1,10 @@
 export default {
-  tgUsername: "aryanvikash",
-  githubUsername: "aryanvikash",
-  websiteName: "@aryanvikash",
+  tgUsername: "jigarvarma2005",
+  githubUsername: "jigarvarma2005",
+  websiteName: "@Jigarvarma2005",
   heroHead: "Hey There !!",
-  heroText: "AryanVikash is here , I’m a ",
-  facebookUsername: "Ar.vikash8",
-  instaUsername: "ar_vikash",
-  typedArray : ["Developer","Fast Learner","Open-source Lover"]
+  heroText: "Jigar Varma is here , I’m a ",
+  facebookUsername: "jigarvarma2005",
+  instaUsername: "jigarvarma2005",
+  typedArray : ["College Student","Noob Developer","Open-source Lover","Python3 Lover","Noob Programmer","Self Learner"]
 };
