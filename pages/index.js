@@ -22,12 +22,12 @@ const siteName = "Jigarvarma"
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta name="twitter:card" content="summary_large_image" key="twcard" />
         <meta property="og:description" content={description} key="ogdesc" />
-        <meta name="twitter:creator" content="@_aryanvikash" key="twhandle" />
+        <meta name="twitter:creator" content="@jigarvarma2005" key="twhandle" />
         
 
         {/* Open Graph */}
-        <meta property="og:url" content="https://aryanvikash.com" key="ogurl" />
-        <meta property="og:image" content="https://github.com/aryanvikash.png" key="ogimage" />
+        <meta property="og:url" content="https://jigarvarma.vercel.app/" key="ogurl" />
+        <meta property="og:image" content="https://telegra.ph/file/63a3bececc4d3f5ca7d81.jpg" key="ogimage" />
         <meta property="og:site_name" content={siteName} key="ogsitename" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta property="og:description" content={description} key="ogdesc" />
