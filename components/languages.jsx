@@ -24,8 +24,6 @@ export default function Languages() {
       <div className="grid-flex">
         <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" />
         <img src="https://img.icons8.com/color/480/000000/python.png" />
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
-        <img src="https://img.icons8.com/color/480/000000/java.png" />
       </div>
 
       {/*  Frameworks */}
