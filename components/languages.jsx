@@ -24,6 +24,7 @@ export default function Languages() {
       <div className="grid-flex">
         <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" />
         <img src="https://img.icons8.com/color/480/000000/python.png" />
+        <img src="https://i.ibb.co/p2nSB8r/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bas.png" />
       </div>
 
       {/*  Frameworks */}
