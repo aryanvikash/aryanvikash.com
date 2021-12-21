@@ -11,11 +11,11 @@ export default function Customhead() {
         <Link href="/">
           <a className={"navbar-brand logo"} >
             <img
-              src="./code.png"
+              src="https://telegra.ph/file/63a3bececc4d3f5ca7d81.jpg"
               width="30"
               height="30"
               className="d-inline-block align-top"
-              alt="aryanvikash"
+              alt="Jigar Varma"
             />
             <kbd id="username">{config.websiteName}</kbd>
           </a>
