@@ -11,7 +11,7 @@ export default function Customhead() {
         <Link href="/">
           <a className={"navbar-brand logo"} >
             <img
-              src="https://telegra.ph/file/63a3bececc4d3f5ca7d81.jpg"
+              src="./code.png"
               width="30"
               height="30"
               className="d-inline-block align-top"
