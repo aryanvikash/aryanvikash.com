@@ -31,6 +31,21 @@ export default function footer() {
               />
             </a>
           </li>
+  
+
+         <li className="list-inline-item">
+            <a
+              href={"emailto:" + config.email}
+              className="btn-floating btn-tw mx-1"
+            >
+              <img
+                style={{ width: "35px", height: "35px" }}
+                src="https://i.ibb.co/gJTDRKH/emovebg-preview-2.png"
+                alt="Email"
+              />
+            </a>
+          </li>
+
 
           <li className="list-inline-item">
             <a
