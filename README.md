@@ -2,7 +2,8 @@
 
 ## Developer Portfolio In NEXTJS
 
-____
+---
+
 ### Host it on netlify or vercel
 
     Replace varible name From config.js file
@@ -16,6 +17,9 @@ ____
     heroText: "I’m AryanVikash and I’m Just a nub Developer!",
     facebookUsername: "Facebook Username",
     instaUsername: "Instagram Username",
+    stacks: [] (Tech stack array)
+
 ### Run it on local
+
     npm install
     npm run dev
