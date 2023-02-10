@@ -21,7 +21,7 @@ export default function Languages() {
                     rel="noopener noreferrer"
                     key={`${stack.name}-${item.name}`}
                   >
-                    <img src={item.imageUrl} />
+                    <img src={item.imageUrl} aria-label={stack.name} />
                   </a>
                 );
               })}
